@@ -1,0 +1,8 @@
+prefix=/home/futo/catkin_ws/devel
+
+Name: beginner_tutorials2
+Description: Description of beginner_tutorials2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/futo/catkin_ws/devel/lib 
+Requires: 
